@@ -1,0 +1,24 @@
+.footer{
+    text-align: center;
+    background-color: skyblue;
+  
+    padding-top: 10px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.image{
+    height: auto;
+    width: 1250px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    
+}
+body{
+     padding-left: 50px;
+}
+.feedback-input{
+    width:650px;
+}
